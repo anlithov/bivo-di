@@ -2,5 +2,5 @@
   "name": "@bivo/di",
   "version": "1.0.1",
   "license": "MIT",
-  "exports": "./src/index.ts"
+  "exports": "./di/index.ts"
 }
